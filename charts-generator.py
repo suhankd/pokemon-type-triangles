@@ -1,7 +1,7 @@
 import pandas as pd
 import itertools
 
-mono_chart = pd.read_csv(f"./data/mono-chart.csv")
+mono_chart = pd.read_csv("data/mono-chart.csv")
 mono_chart.set_index("Attacking", inplace = True)
 
 types = mono_chart.index.tolist()
@@ -23,7 +23,7 @@ for attacker in types:
 # Saving the mono-dual chart.
 
 mono_vs_dual.index.name = "Attacking"
-mono_vs_dual.to_csv("./data/mono-dual-chart.csv")
+# mono_vs_dual.to_csv("data/mono-dual-chart.csv")
 
 dual_vs_dual = pd.DataFrame(
 

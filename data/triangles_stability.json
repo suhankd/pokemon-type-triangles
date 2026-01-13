@@ -1,0 +1,5222 @@
+[
+  {
+    "0": "Fire/Psychic",
+    "1": "Grass/Fighting",
+    "2": "Ground/Dark",
+    "score": 0.0
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Ice",
+    "2": "Rock/Fairy",
+    "score": 0.0
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Fairy",
+    "2": "Water/Fighting",
+    "score": 0.0
+  },
+  {
+    "0": "Electric/Dark",
+    "1": "Fighting/Ground",
+    "2": "Flying/Psychic",
+    "score": 0.003472222222222222
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Fighting",
+    "2": "Water/Rock",
+    "score": 0.0034722222222222225
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Dark",
+    "2": "Rock/Fairy",
+    "score": 0.0034722222222222225
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Steel",
+    "2": "Psychic/Rock",
+    "score": 0.0034722222222222225
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ground/Dark",
+    "2": "Poison/Psychic",
+    "score": 0.010416666666666666
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Fairy",
+    "2": "Water/Fighting",
+    "score": 0.013888888888888888
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Fire/Electric",
+    "2": "Grass/Ice",
+    "score": 0.013888888888888888
+  },
+  {
+    "0": "Fire/Dark",
+    "1": "Grass/Psychic",
+    "2": "Water/Fighting",
+    "score": 0.013888888888888888
+  },
+  {
+    "0": "Fire/Fighting",
+    "1": "Grass/Dark",
+    "2": "Water/Psychic",
+    "score": 0.013888888888888888
+  },
+  {
+    "0": "Fire/Psychic",
+    "1": "Grass/Fighting",
+    "2": "Water/Dark",
+    "score": 0.013888888888888888
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Bug",
+    "2": "Rock/Fairy",
+    "score": 0.01388888888888889
+  },
+  {
+    "0": "Ground/Dragon",
+    "1": "Ice/Flying",
+    "2": "Poison/Rock",
+    "score": 0.01388888888888889
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Ice/Flying",
+    "2": "Normal/Rock",
+    "score": 0.01388888888888889
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Dragon",
+    "2": "Rock/Fairy",
+    "score": 0.01388888888888889
+  },
+  {
+    "0": "Ground/Dragon",
+    "1": "Ice/Bug",
+    "2": "Poison/Rock",
+    "score": 0.01388888888888889
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Ice/Rock",
+    "2": "Ice/Steel",
+    "score": 0.017361111111111112
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Dark",
+    "2": "Ice/Fairy",
+    "score": 0.017361111111111112
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Ground/Dragon",
+    "2": "Ice/Bug",
+    "score": 0.024305555555555552
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Ground/Bug",
+    "2": "Ice/Flying",
+    "score": 0.024305555555555552
+  },
+  {
+    "0": "Ground/Flying",
+    "1": "Ice/Flying",
+    "2": "Poison/Rock",
+    "score": 0.027777777777777776
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Ice/Steel",
+    "2": "Rock/Fairy",
+    "score": 0.027777777777777776
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Psychic/Ghost",
+    "2": "Rock/Dark",
+    "score": 0.027777777777777776
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Grass/Dark",
+    "2": "Psychic/Rock",
+    "score": 0.027777777777777776
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Grass/Fairy",
+    "2": "Water/Ground",
+    "score": 0.027777777777777776
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Grass/Flying",
+    "2": "Normal/Ice",
+    "score": 0.027777777777777776
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Ice/Steel",
+    "2": "Rock/Fairy",
+    "score": 0.027777777777777776
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Rock/Fairy",
+    "2": "Rock/Steel",
+    "score": 0.027777777777777776
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Fighting/Ground",
+    "2": "Grass/Fairy",
+    "score": 0.027777777777777776
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Ice/Steel",
+    "2": "Rock/Fairy",
+    "score": 0.027777777777777776
+  },
+  {
+    "0": "Fighting/Dragon",
+    "1": "Rock/Fairy",
+    "2": "Rock/Steel",
+    "score": 0.027777777777777776
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Ice/Steel",
+    "2": "Rock/Fairy",
+    "score": 0.02777777777777778
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Ground/Rock",
+    "2": "Poison/Rock",
+    "score": 0.03125
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Grass/Ground",
+    "2": "Ice/Flying",
+    "score": 0.03125
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Ground",
+    "2": "Water/Electric",
+    "score": 0.03125
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Flying",
+    "2": "Ice/Rock",
+    "score": 0.03125
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Ground/Bug",
+    "2": "Water/Flying",
+    "score": 0.03819444444444444
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Fighting/Ground",
+    "2": "Flying/Fairy",
+    "score": 0.03819444444444444
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Ground/Dragon",
+    "2": "Poison/Steel",
+    "score": 0.03819444444444444
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Flying",
+    "2": "Rock/Fairy",
+    "score": 0.03819444444444444
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Ground/Dragon",
+    "2": "Ice/Bug",
+    "score": 0.041666666666666664
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Ice/Flying",
+    "2": "Ice/Rock",
+    "score": 0.041666666666666664
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Ice/Fairy",
+    "2": "Normal/Steel",
+    "score": 0.041666666666666664
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Ground/Flying",
+    "2": "Ice/Flying",
+    "score": 0.041666666666666664
+  },
+  {
+    "0": "Grass/Steel",
+    "1": "Normal/Fire",
+    "2": "Water/Rock",
+    "score": 0.04513888888888889
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Ground/Dragon",
+    "2": "Ice/Flying",
+    "score": 0.04513888888888889
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Grass/Fighting",
+    "2": "Rock/Steel",
+    "score": 0.045138888888888895
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Ground/Flying",
+    "2": "Ice/Flying",
+    "score": 0.04861111111111112
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Grass/Fairy",
+    "2": "Ground/Dark",
+    "score": 0.05555555555555555
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Grass/Ice",
+    "2": "Ground/Dragon",
+    "score": 0.05555555555555555
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Normal/Steel",
+    "2": "Rock/Fairy",
+    "score": 0.05555555555555555
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Flying/Dragon",
+    "2": "Normal/Ice",
+    "score": 0.05555555555555555
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Ice/Flying",
+    "2": "Rock/Dark",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ice/Flying",
+    "2": "Normal/Rock",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Grass/Flying",
+    "1": "Ice/Steel",
+    "2": "Water/Fighting",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Ground/Dark",
+    "2": "Poison/Ghost",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Grass/Psychic",
+    "1": "Ice/Dark",
+    "2": "Water/Fighting",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Grass/Psychic",
+    "1": "Ice/Bug",
+    "2": "Water/Rock",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Grass/Dark",
+    "1": "Ice/Bug",
+    "2": "Water/Rock",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Ice/Steel",
+    "2": "Water/Fighting",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Ice/Dark",
+    "2": "Psychic/Ghost",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Fire/Ground",
+    "2": "Water/Flying",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Fire/Electric",
+    "2": "Ice/Flying",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Bug/Fairy",
+    "1": "Ground/Dark",
+    "2": "Poison/Rock",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Dragon",
+    "2": "Ice/Flying",
+    "score": 0.05555555555555556
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Dark",
+    "2": "Water/Rock",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Ice",
+    "2": "Water/Ground",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Psychic",
+    "2": "Water/Rock",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Grass/Dark",
+    "2": "Water/Rock",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Steel",
+    "2": "Psychic/Rock",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Steel",
+    "2": "Water/Rock",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Psychic",
+    "2": "Ground/Rock",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Grass/Ice",
+    "2": "Poison/Steel",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Grass/Psychic",
+    "2": "Water/Rock",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Steel",
+    "2": "Normal/Rock",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Fighting",
+    "2": "Rock/Dark",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Dark",
+    "2": "Ground/Rock",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Steel",
+    "2": "Water/Rock",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Grass/Ice",
+    "1": "Poison/Steel",
+    "2": "Water/Ground",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Grass/Dragon",
+    "1": "Ice/Bug",
+    "2": "Water/Rock",
+    "score": 0.05902777777777778
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ground/Dragon",
+    "2": "Ice/Flying",
+    "score": 0.06597222222222221
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Steel",
+    "2": "Water/Rock",
+    "score": 0.06597222222222222
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Bug",
+    "2": "Water/Ground",
+    "score": 0.06597222222222222
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Bug",
+    "2": "Water/Ground",
+    "score": 0.06597222222222222
+  },
+  {
+    "0": "Grass/Dragon",
+    "1": "Ice/Flying",
+    "2": "Water/Rock",
+    "score": 0.06597222222222222
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Grass/Dark",
+    "2": "Psychic/Ghost",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Ground/Flying",
+    "2": "Normal/Ice",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ice/Dragon",
+    "2": "Rock/Steel",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Bug/Fairy",
+    "1": "Ground/Dark",
+    "2": "Rock/Steel",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Ground/Dragon",
+    "2": "Ice/Flying",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Ice",
+    "2": "Water/Ground",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Grass/Ice",
+    "2": "Ground/Dragon",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ice/Bug",
+    "2": "Rock/Steel",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ice/Bug",
+    "2": "Poison/Rock",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ice/Flying",
+    "2": "Rock/Dark",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Ice/Dark",
+    "2": "Psychic/Dragon",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Fairy",
+    "2": "Water/Ground",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ice/Bug",
+    "2": "Water/Rock",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Steel",
+    "2": "Normal/Rock",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Ground/Dark",
+    "2": "Poison/Rock",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Poison/Rock",
+    "2": "Water/Ground",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ice/Flying",
+    "2": "Water/Rock",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Poison/Steel",
+    "2": "Water/Ground",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Ground/Dark",
+    "2": "Poison/Psychic",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Grass/Ground",
+    "2": "Ice/Fairy",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Steel",
+    "2": "Psychic/Rock",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Ice/Fairy",
+    "2": "Rock/Steel",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Bug/Fairy",
+    "1": "Fire/Rock",
+    "2": "Ground/Dark",
+    "score": 0.06944444444444445
+  },
+  {
+    "0": "Grass/Ice",
+    "1": "Ground/Dragon",
+    "2": "Poison/Steel",
+    "score": 0.07291666666666666
+  },
+  {
+    "0": "Bug/Fairy",
+    "1": "Fighting/Dark",
+    "2": "Rock/Steel",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Flying/Bug",
+    "2": "Normal/Rock",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Ice/Fairy",
+    "2": "Ice/Steel",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Ground/Dragon",
+    "2": "Ice/Flying",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Fire/Flying",
+    "2": "Rock/Dark",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Grass/Fighting",
+    "2": "Normal/Flying",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Grass/Fairy",
+    "2": "Ground/Rock",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Steel",
+    "2": "Normal/Rock",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Fighting",
+    "2": "Ground/Dark",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Ice/Flying",
+    "2": "Poison/Rock",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Fighting",
+    "2": "Normal/Rock",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Bug/Fairy",
+    "1": "Fighting/Dragon",
+    "2": "Rock/Steel",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Dragon",
+    "2": "Water/Rock",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Steel",
+    "2": "Water/Rock",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Grass/Fairy",
+    "2": "Poison/Rock",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Fairy",
+    "2": "Ground/Rock",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fighting/Fairy",
+    "1": "Ice/Rock",
+    "2": "Poison/Flying",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Ice",
+    "2": "Ground/Dragon",
+    "score": 0.0798611111111111
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Flying/Fairy",
+    "2": "Poison/Rock",
+    "score": 0.07986111111111112
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Fire/Psychic",
+    "2": "Rock/Dark",
+    "score": 0.08333333333333333
+  },
+  {
+    "0": "Ground/Dragon",
+    "1": "Ice/Psychic",
+    "2": "Rock/Steel",
+    "score": 0.08333333333333333
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ice/Flying",
+    "2": "Rock/Steel",
+    "score": 0.08680555555555555
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Steel",
+    "2": "Ice/Rock",
+    "score": 0.08680555555555555
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Ground/Flying",
+    "2": "Ice/Fairy",
+    "score": 0.08680555555555555
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Steel",
+    "2": "Ground/Rock",
+    "score": 0.08680555555555555
+  },
+  {
+    "0": "Ground/Bug",
+    "1": "Ice/Flying",
+    "2": "Poison/Rock",
+    "score": 0.09722222222222221
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Ice/Psychic",
+    "2": "Rock/Dark",
+    "score": 0.09722222222222221
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Ground/Dragon",
+    "2": "Ice/Bug",
+    "score": 0.09722222222222221
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Grass/Steel",
+    "2": "Water/Ground",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Normal/Electric",
+    "2": "Water/Flying",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Bug/Fairy",
+    "1": "Fire/Poison",
+    "2": "Ground/Dark",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ice/Fairy",
+    "2": "Rock/Steel",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Electric/Fighting",
+    "1": "Ground/Psychic",
+    "2": "Ice/Dark",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Flying/Dragon",
+    "2": "Ice/Rock",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Ground/Bug",
+    "2": "Water/Flying",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Ground/Flying",
+    "2": "Ice/Dark",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Fire/Psychic",
+    "1": "Ice/Fighting",
+    "2": "Rock/Dark",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ice/Flying",
+    "2": "Water/Rock",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Electric/Psychic",
+    "1": "Ground/Bug",
+    "2": "Water/Flying",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Fighting/Ground",
+    "2": "Water/Flying",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Electric/Dark",
+    "1": "Ground/Bug",
+    "2": "Water/Flying",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Bug/Fairy",
+    "1": "Ground/Dark",
+    "2": "Poison/Steel",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Ground/Dragon",
+    "2": "Ice/Fairy",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Grass/Ice",
+    "2": "Ground/Rock",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Grass/Fighting",
+    "2": "Water/Rock",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ice/Psychic",
+    "2": "Rock/Steel",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Electric/Dark",
+    "1": "Fighting/Ground",
+    "2": "Flying/Ghost",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Grass/Flying",
+    "1": "Normal/Ice",
+    "2": "Water/Fighting",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Ice/Rock",
+    "2": "Normal/Flying",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Flying/Dragon",
+    "2": "Ice/Dark",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Grass/Dark",
+    "2": "Water/Psychic",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Electric/Ice",
+    "1": "Fire/Ground",
+    "2": "Water/Flying",
+    "score": 0.09722222222222222
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Fairy",
+    "2": "Ground/Rock",
+    "score": 0.10069444444444445
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Steel",
+    "2": "Rock/Fairy",
+    "score": 0.10069444444444445
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ice/Flying",
+    "2": "Rock/Steel",
+    "score": 0.10069444444444445
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Steel",
+    "2": "Rock/Fairy",
+    "score": 0.10069444444444445
+  },
+  {
+    "0": "Ground/Dragon",
+    "1": "Normal/Ice",
+    "2": "Rock/Steel",
+    "score": 0.1076388888888889
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ground/Dragon",
+    "2": "Normal/Ice",
+    "score": 0.1076388888888889
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Ground/Bug",
+    "2": "Poison/Rock",
+    "score": 0.1076388888888889
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Grass/Bug",
+    "2": "Water/Ground",
+    "score": 0.1076388888888889
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ground/Dragon",
+    "2": "Ice/Psychic",
+    "score": 0.1076388888888889
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Ground",
+    "2": "Rock/Steel",
+    "score": 0.1111111111111111
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ice/Flying",
+    "2": "Poison/Rock",
+    "score": 0.1111111111111111
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Ground",
+    "2": "Poison/Rock",
+    "score": 0.1111111111111111
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Ground/Flying",
+    "2": "Normal/Ice",
+    "score": 0.1111111111111111
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Dragon",
+    "2": "Ground/Rock",
+    "score": 0.1111111111111111
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Grass/Ice",
+    "2": "Water/Ground",
+    "score": 0.1111111111111111
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Grass/Fighting",
+    "2": "Normal/Rock",
+    "score": 0.1111111111111111
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Dragon",
+    "2": "Normal/Ice",
+    "score": 0.1111111111111111
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Steel",
+    "2": "Ground/Rock",
+    "score": 0.1111111111111111
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Fighting/Dark",
+    "2": "Ice/Steel",
+    "score": 0.1111111111111111
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Grass/Fairy",
+    "2": "Ice/Steel",
+    "score": 0.1111111111111111
+  },
+  {
+    "0": "Grass/Flying",
+    "1": "Ice/Dark",
+    "2": "Water/Fighting",
+    "score": 0.1111111111111111
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Steel",
+    "2": "Rock/Fairy",
+    "score": 0.11111111111111112
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Grass/Flying",
+    "2": "Ice/Dark",
+    "score": 0.11111111111111112
+  },
+  {
+    "0": "Ground/Dragon",
+    "1": "Ice/Bug",
+    "2": "Rock/Steel",
+    "score": 0.11111111111111112
+  },
+  {
+    "0": "Electric/Dark",
+    "1": "Fighting/Ground",
+    "2": "Water/Flying",
+    "score": 0.11111111111111112
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Ground",
+    "2": "Rock/Steel",
+    "score": 0.11458333333333334
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Fighting",
+    "2": "Rock/Steel",
+    "score": 0.12152777777777778
+  },
+  {
+    "0": "Ground/Dragon",
+    "1": "Ice/Flying",
+    "2": "Rock/Steel",
+    "score": 0.12152777777777778
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Ground",
+    "2": "Poison/Rock",
+    "score": 0.12152777777777779
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Ground/Flying",
+    "2": "Ice/Fairy",
+    "score": 0.12152777777777779
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Grass/Ground",
+    "2": "Poison/Rock",
+    "score": 0.12152777777777779
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Flying/Fairy",
+    "2": "Poison/Steel",
+    "score": 0.12152777777777779
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Grass/Ground",
+    "2": "Rock/Steel",
+    "score": 0.12152777777777779
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Normal/Ice",
+    "2": "Rock/Steel",
+    "score": 0.12152777777777779
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Fire/Flying",
+    "2": "Ice/Rock",
+    "score": 0.12152777777777779
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Ground",
+    "2": "Ground/Rock",
+    "score": 0.125
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Fire/Ground",
+    "2": "Water/Flying",
+    "score": 0.1284722222222222
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Ground",
+    "2": "Water/Rock",
+    "score": 0.1284722222222222
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Fire/Flying",
+    "2": "Normal/Rock",
+    "score": 0.12847222222222224
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Ground/Flying",
+    "2": "Ice/Flying",
+    "score": 0.13194444444444445
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Grass/Flying",
+    "2": "Ice/Rock",
+    "score": 0.1388888888888889
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Ground/Flying",
+    "2": "Ice/Dark",
+    "score": 0.1388888888888889
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Dragon",
+    "2": "Ice/Fairy",
+    "score": 0.1388888888888889
+  },
+  {
+    "0": "Fighting/Dragon",
+    "1": "Ice/Fairy",
+    "2": "Rock/Steel",
+    "score": 0.1388888888888889
+  },
+  {
+    "0": "Ground/Dragon",
+    "1": "Ice/Fairy",
+    "2": "Rock/Steel",
+    "score": 0.1388888888888889
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Flying/Fairy",
+    "2": "Ground/Dragon",
+    "score": 0.1423611111111111
+  },
+  {
+    "0": "Ground/Dragon",
+    "1": "Ice/Fairy",
+    "2": "Poison/Steel",
+    "score": 0.14930555555555555
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ice/Flying",
+    "2": "Ice/Rock",
+    "score": 0.15277777777777776
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Grass/Ground",
+    "2": "Ice/Bug",
+    "score": 0.15277777777777776
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Ice/Rock",
+    "2": "Poison/Flying",
+    "score": 0.15277777777777776
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Fairy",
+    "2": "Ground/Dark",
+    "score": 0.15277777777777776
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Normal/Dark",
+    "2": "Psychic/Ghost",
+    "score": 0.1527777777777778
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ground/Dragon",
+    "2": "Ice/Bug",
+    "score": 0.1527777777777778
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Ice",
+    "2": "Ground/Dragon",
+    "score": 0.1527777777777778
+  },
+  {
+    "0": "Bug/Fairy",
+    "1": "Fire/Steel",
+    "2": "Ground/Dark",
+    "score": 0.1527777777777778
+  },
+  {
+    "0": "Ground/Flying",
+    "1": "Ice/Fairy",
+    "2": "Poison/Steel",
+    "score": 0.16319444444444445
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Flying/Bug",
+    "2": "Ice/Rock",
+    "score": 0.16319444444444445
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Dragon",
+    "2": "Ice/Fairy",
+    "score": 0.16666666666666666
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Steel",
+    "2": "Water/Ground",
+    "score": 0.16666666666666666
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ground/Dragon",
+    "2": "Ice/Fairy",
+    "score": 0.16666666666666666
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Fighting",
+    "2": "Water/Ground",
+    "score": 0.17013888888888887
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Ground/Dragon",
+    "2": "Ice/Fairy",
+    "score": 0.17013888888888887
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Grass/Steel",
+    "2": "Ground/Rock",
+    "score": 0.1701388888888889
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Grass/Steel",
+    "2": "Water/Ground",
+    "score": 0.1701388888888889
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Ice",
+    "2": "Ground/Rock",
+    "score": 0.17013888888888892
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Ice/Flying",
+    "2": "Normal/Rock",
+    "score": 0.17708333333333331
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Flying/Psychic",
+    "2": "Ice/Dark",
+    "score": 0.17708333333333331
+  },
+  {
+    "0": "Flying/Ghost",
+    "1": "Grass/Fighting",
+    "2": "Rock/Dark",
+    "score": 0.18055555555555555
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Fairy",
+    "2": "Water/Ground",
+    "score": 0.18055555555555555
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Fire/Rock",
+    "2": "Grass/Ice",
+    "score": 0.18055555555555555
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Ground/Psychic",
+    "2": "Ice/Dark",
+    "score": 0.18055555555555555
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Ice",
+    "2": "Ground/Rock",
+    "score": 0.18402777777777776
+  },
+  {
+    "0": "Flying/Dragon",
+    "1": "Grass/Fighting",
+    "2": "Ice/Rock",
+    "score": 0.18402777777777776
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Fighting",
+    "2": "Ice/Rock",
+    "score": 0.18402777777777776
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Grass/Ground",
+    "2": "Ice/Flying",
+    "score": 0.1909722222222222
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Flying",
+    "2": "Ground/Bug",
+    "score": 0.1909722222222222
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Steel",
+    "2": "Ground/Rock",
+    "score": 0.1909722222222222
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Fairy",
+    "2": "Water/Rock",
+    "score": 0.1909722222222222
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Grass/Fighting",
+    "2": "Poison/Psychic",
+    "score": 0.1909722222222222
+  },
+  {
+    "0": "Flying/Fairy",
+    "1": "Ground/Dragon",
+    "2": "Poison/Steel",
+    "score": 0.1909722222222222
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Flying/Bug",
+    "2": "Grass/Fighting",
+    "score": 0.1909722222222222
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Ground/Bug",
+    "2": "Ice/Flying",
+    "score": 0.1909722222222222
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Fire/Poison",
+    "2": "Grass/Ice",
+    "score": 0.1909722222222222
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Ice/Flying",
+    "2": "Rock/Dark",
+    "score": 0.1909722222222222
+  },
+  {
+    "0": "Flying/Fairy",
+    "1": "Ground/Dragon",
+    "2": "Rock/Steel",
+    "score": 0.1909722222222222
+  },
+  {
+    "0": "Grass/Steel",
+    "1": "Ground/Rock",
+    "2": "Normal/Fire",
+    "score": 0.19444444444444445
+  },
+  {
+    "0": "Flying/Fairy",
+    "1": "Grass/Fighting",
+    "2": "Rock/Steel",
+    "score": 0.19791666666666666
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Fairy",
+    "2": "Water/Rock",
+    "score": 0.19791666666666666
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Flying/Fairy",
+    "2": "Rock/Steel",
+    "score": 0.19791666666666666
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Fighting/Ground",
+    "2": "Water/Flying",
+    "score": 0.20486111111111113
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Steel",
+    "2": "Water/Ground",
+    "score": 0.20486111111111113
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Flying/Psychic",
+    "2": "Rock/Dark",
+    "score": 0.20486111111111113
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Grass/Fairy",
+    "2": "Poison/Steel",
+    "score": 0.20833333333333331
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Flying/Fairy",
+    "2": "Ground/Dragon",
+    "score": 0.20833333333333331
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Fire/Steel",
+    "2": "Grass/Ice",
+    "score": 0.20833333333333331
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Fairy",
+    "2": "Ground/Dark",
+    "score": 0.20833333333333331
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Ground/Dark",
+    "2": "Poison/Steel",
+    "score": 0.20833333333333331
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Fairy",
+    "2": "Water/Rock",
+    "score": 0.21180555555555555
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Grass/Fighting",
+    "2": "Ice/Rock",
+    "score": 0.2222222222222222
+  },
+  {
+    "0": "Flying/Fairy",
+    "1": "Ground/Dragon",
+    "2": "Poison/Rock",
+    "score": 0.2222222222222222
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Ice",
+    "2": "Grass/Ground",
+    "score": 0.2222222222222222
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Fire/Poison",
+    "2": "Grass/Fairy",
+    "score": 0.22222222222222224
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Flying",
+    "2": "Grass/Fighting",
+    "score": 0.22569444444444445
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Fighting",
+    "2": "Ground/Rock",
+    "score": 0.22569444444444445
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Fighting/Ground",
+    "2": "Ice/Flying",
+    "score": 0.22569444444444445
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Fighting",
+    "2": "Ground/Rock",
+    "score": 0.22569444444444445
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Fighting",
+    "2": "Water/Rock",
+    "score": 0.22569444444444445
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Fire/Rock",
+    "2": "Ice/Flying",
+    "score": 0.22569444444444445
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Ice",
+    "2": "Ground/Rock",
+    "score": 0.22569444444444448
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Flying/Psychic",
+    "2": "Ice/Dark",
+    "score": 0.2326388888888889
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Flying/Ghost",
+    "2": "Rock/Dark",
+    "score": 0.2326388888888889
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Flying",
+    "2": "Grass/Ground",
+    "score": 0.2326388888888889
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Ground",
+    "2": "Water/Flying",
+    "score": 0.2326388888888889
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Flying/Psychic",
+    "2": "Rock/Dark",
+    "score": 0.2326388888888889
+  },
+  {
+    "0": "Flying/Psychic",
+    "1": "Grass/Fighting",
+    "2": "Rock/Dark",
+    "score": 0.2326388888888889
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Grass/Fighting",
+    "2": "Poison/Flying",
+    "score": 0.2326388888888889
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Grass/Fighting",
+    "2": "Ice/Flying",
+    "score": 0.2326388888888889
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Ground/Psychic",
+    "2": "Ice/Dark",
+    "score": 0.23611111111111113
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Grass/Dark",
+    "2": "Ground/Psychic",
+    "score": 0.23611111111111113
+  },
+  {
+    "0": "Fire/Psychic",
+    "1": "Grass/Fighting",
+    "2": "Rock/Dark",
+    "score": 0.23611111111111113
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Flying",
+    "2": "Water/Fighting",
+    "score": 0.23611111111111113
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Flying/Fairy",
+    "2": "Ice/Steel",
+    "score": 0.23958333333333331
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Grass/Fighting",
+    "2": "Water/Flying",
+    "score": 0.2465277777777778
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Fighting/Ground",
+    "2": "Flying/Fairy",
+    "score": 0.2465277777777778
+  },
+  {
+    "0": "Fighting/Dragon",
+    "1": "Flying/Fairy",
+    "2": "Rock/Steel",
+    "score": 0.2465277777777778
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Ice/Flying",
+    "2": "Ice/Rock",
+    "score": 0.2534722222222222
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Steel",
+    "2": "Ground/Rock",
+    "score": 0.2534722222222222
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Ground",
+    "2": "Ground/Rock",
+    "score": 0.2534722222222222
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Grass/Ground",
+    "2": "Water/Rock",
+    "score": 0.2534722222222222
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Fairy",
+    "2": "Ground/Rock",
+    "score": 0.26388888888888884
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ice/Rock",
+    "2": "Normal/Flying",
+    "score": 0.26388888888888884
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Flying/Psychic",
+    "2": "Rock/Dark",
+    "score": 0.2673611111111111
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Flying/Bug",
+    "2": "Grass/Ground",
+    "score": 0.26736111111111116
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fighting/Ground",
+    "2": "Ice/Flying",
+    "score": 0.26736111111111116
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Ground",
+    "2": "Water/Rock",
+    "score": 0.2881944444444445
+  },
+  {
+    "0": "Grass/Ice",
+    "1": "Ground/Rock",
+    "2": "Normal/Fire",
+    "score": 0.29166666666666663
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Fire/Steel",
+    "2": "Ice/Flying",
+    "score": 0.2951388888888889
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Grass/Flying",
+    "2": "Ice/Rock",
+    "score": 0.29513888888888895
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Ground/Bug",
+    "2": "Water/Flying",
+    "score": 0.3020833333333333
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Grass/Ice",
+    "2": "Ground/Rock",
+    "score": 0.3055555555555556
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Fire/Steel",
+    "2": "Grass/Fairy",
+    "score": 0.3194444444444444
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Ice",
+    "2": "Ground/Rock",
+    "score": 0.32986111111111116
+  },
+  {
+    "0": "Grass/Flying",
+    "1": "Ice/Rock",
+    "2": "Water/Fighting",
+    "score": 0.3472222222222222
+  },
+  {
+    "0": "Ground/Dragon",
+    "1": "Ice/Dragon",
+    "2": "Rock/Steel",
+    "score": 0.36111111111111116
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Grass/Ice",
+    "2": "Water/Ground",
+    "score": 0.40277777777777773
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ice/Rock",
+    "2": "Poison/Flying",
+    "score": 0.4027777777777778
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Grass/Bug",
+    "2": "Water/Ground",
+    "score": 0.4131944444444444
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Grass/Flying",
+    "2": "Ice/Rock",
+    "score": 0.4201388888888889
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fighting/Ground",
+    "2": "Water/Flying",
+    "score": 0.4201388888888889
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Flying/Ghost",
+    "2": "Rock/Dark",
+    "score": 0.43402777777777773
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Grass/Fairy",
+    "2": "Ice/Steel",
+    "score": 0.4444444444444445
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Grass/Flying",
+    "2": "Ice/Steel",
+    "score": 0.45833333333333337
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Dragon",
+    "2": "Ice/Bug",
+    "score": 0.5138888888888888
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Flying/Fairy",
+    "2": "Ice/Steel",
+    "score": 0.5590277777777778
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Ice/Flying",
+    "2": "Rock/Steel",
+    "score": 0.6770833333333333
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Flying/Fairy",
+    "2": "Rock/Steel",
+    "score": 0.9305555555555555
+  },
+  {
+    "0": "Bug/Rock",
+    "1": "Ice/Bug",
+    "2": "Psychic/Dark",
+    "score": 1.0
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Ice/Fairy",
+    "2": "Normal/Dragon",
+    "score": 1.0
+  },
+  {
+    "0": "Bug/Dark",
+    "1": "Bug/Fairy",
+    "2": "Psychic/Dragon",
+    "score": 1.0
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Ghost/Dragon",
+    "2": "Ice/Fairy",
+    "score": 1.0
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Ice/Fairy",
+    "2": "Psychic/Dragon",
+    "score": 1.0
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Fairy",
+    "2": "Ice/Steel",
+    "score": 1.0069444444444446
+  },
+  {
+    "0": "Ground/Dragon",
+    "1": "Ice/Fighting",
+    "2": "Normal/Ice",
+    "score": 1.0277777777777777
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ice/Fighting",
+    "2": "Normal/Ice",
+    "score": 1.0277777777777777
+  },
+  {
+    "0": "Grass/Dragon",
+    "1": "Ice/Fighting",
+    "2": "Normal/Ice",
+    "score": 1.0277777777777777
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Fighting/Psychic",
+    "2": "Normal/Ice",
+    "score": 1.0277777777777777
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Rock",
+    "2": "Ground/Fairy",
+    "score": 1.027777777777778
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Dark",
+    "2": "Fighting/Flying",
+    "score": 1.065972222222222
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Ice/Bug",
+    "2": "Poison/Rock",
+    "score": 1.0972222222222223
+  },
+  {
+    "0": "Ghost/Dark",
+    "1": "Grass/Psychic",
+    "2": "Psychic/Bug",
+    "score": 1.0972222222222223
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Electric/Dragon",
+    "2": "Ice/Fairy",
+    "score": 1.0972222222222223
+  },
+  {
+    "0": "Fire/Fairy",
+    "1": "Ice/Dark",
+    "2": "Ice/Fighting",
+    "score": 1.0972222222222223
+  },
+  {
+    "0": "Bug/Fairy",
+    "1": "Fire/Flying",
+    "2": "Rock/Steel",
+    "score": 1.1076388888888888
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Grass/Fighting",
+    "2": "Ground/Flying",
+    "score": 1.1076388888888888
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Ground/Flying",
+    "2": "Ice/Psychic",
+    "score": 1.1111111111111112
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Fairy",
+    "2": "Ice/Steel",
+    "score": 1.121527777777778
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Ground",
+    "2": "Ice/Bug",
+    "score": 1.1388888888888888
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Ice/Fairy",
+    "2": "Ice/Steel",
+    "score": 1.1423611111111112
+  },
+  {
+    "0": "Bug/Dark",
+    "1": "Flying/Fairy",
+    "2": "Grass/Dark",
+    "score": 1.1423611111111112
+  },
+  {
+    "0": "Bug/Dark",
+    "1": "Fire/Fairy",
+    "2": "Grass/Dark",
+    "score": 1.1423611111111112
+  },
+  {
+    "0": "Fighting/Psychic",
+    "1": "Normal/Ice",
+    "2": "Rock/Steel",
+    "score": 1.1493055555555556
+  },
+  {
+    "0": "Ground/Dragon",
+    "1": "Ice/Dark",
+    "2": "Ice/Fighting",
+    "score": 1.152777777777778
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ice/Dark",
+    "2": "Ice/Fighting",
+    "score": 1.152777777777778
+  },
+  {
+    "0": "Grass/Dragon",
+    "1": "Ice/Dark",
+    "2": "Ice/Fighting",
+    "score": 1.152777777777778
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Fighting/Flying",
+    "2": "Rock/Dark",
+    "score": 1.1631944444444444
+  },
+  {
+    "0": "Fire/Fighting",
+    "1": "Grass/Bug",
+    "2": "Water/Flying",
+    "score": 1.1631944444444444
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Flying",
+    "2": "Fire/Rock",
+    "score": 1.1631944444444444
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Ice/Dark",
+    "2": "Steel/Fairy",
+    "score": 1.1770833333333333
+  },
+  {
+    "0": "Fire/Dark",
+    "1": "Ghost/Steel",
+    "2": "Ice/Psychic",
+    "score": 1.1805555555555558
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Fighting/Psychic",
+    "2": "Normal/Rock",
+    "score": 1.1805555555555558
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Fighting/Psychic",
+    "2": "Ice/Rock",
+    "score": 1.1805555555555558
+  },
+  {
+    "0": "Fighting/Steel",
+    "1": "Ice/Dragon",
+    "2": "Rock/Fairy",
+    "score": 1.184027777777778
+  },
+  {
+    "0": "Bug/Fairy",
+    "1": "Fire/Flying",
+    "2": "Fire/Rock",
+    "score": 1.184027777777778
+  },
+  {
+    "0": "Fire/Fighting",
+    "1": "Grass/Bug",
+    "2": "Grass/Dark",
+    "score": 1.1909722222222223
+  },
+  {
+    "0": "Fighting/Flying",
+    "1": "Grass/Bug",
+    "2": "Grass/Dark",
+    "score": 1.1909722222222223
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Ice/Rock",
+    "2": "Normal/Fighting",
+    "score": 1.1944444444444444
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Flying",
+    "2": "Grass/Fighting",
+    "score": 1.1944444444444444
+  },
+  {
+    "0": "Bug/Dark",
+    "1": "Grass/Dark",
+    "2": "Water/Psychic",
+    "score": 1.1944444444444446
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Fighting",
+    "2": "Ground/Flying",
+    "score": 1.1979166666666665
+  },
+  {
+    "0": "Fighting/Ghost",
+    "1": "Normal/Ice",
+    "2": "Rock/Steel",
+    "score": 1.2048611111111112
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Fairy",
+    "2": "Grass/Dark",
+    "score": 1.2118055555555556
+  },
+  {
+    "0": "Dark/Fairy",
+    "1": "Fighting/Dark",
+    "2": "Steel/Fairy",
+    "score": 1.222222222222222
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Rock",
+    "2": "Ice/Fairy",
+    "score": 1.222222222222222
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Grass/Ice",
+    "2": "Water/Ground",
+    "score": 1.2222222222222223
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Bug",
+    "2": "Psychic/Dark",
+    "score": 1.2222222222222223
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Fire/Fairy",
+    "2": "Ice/Steel",
+    "score": 1.2222222222222223
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Ground/Fairy",
+    "2": "Rock/Dark",
+    "score": 1.2222222222222223
+  },
+  {
+    "0": "Ice/Dragon",
+    "1": "Rock/Fairy",
+    "2": "Rock/Steel",
+    "score": 1.2222222222222223
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Poison/Ground",
+    "2": "Poison/Rock",
+    "score": 1.2222222222222223
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Ice/Bug",
+    "2": "Psychic/Dark",
+    "score": 1.2222222222222223
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Rock",
+    "2": "Ground/Psychic",
+    "score": 1.2361111111111112
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Ice/Fairy",
+    "2": "Ice/Steel",
+    "score": 1.2361111111111112
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Poison",
+    "2": "Ice/Fairy",
+    "score": 1.2361111111111112
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Normal/Ice",
+    "2": "Rock/Steel",
+    "score": 1.2465277777777777
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Bug",
+    "2": "Fighting/Flying",
+    "score": 1.2534722222222223
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Fire/Fairy",
+    "2": "Ice/Dark",
+    "score": 1.2534722222222223
+  },
+  {
+    "0": "Fighting/Ghost",
+    "1": "Ice/Rock",
+    "2": "Ice/Steel",
+    "score": 1.2534722222222223
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Ice/Rock",
+    "2": "Ice/Steel",
+    "score": 1.2534722222222223
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Grass/Poison",
+    "2": "Water/Rock",
+    "score": 1.2534722222222223
+  },
+  {
+    "0": "Grass/Dark",
+    "1": "Ground/Rock",
+    "2": "Water/Ghost",
+    "score": 1.2638888888888888
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Ground/Rock",
+    "2": "Water/Dark",
+    "score": 1.2638888888888888
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Fighting/Flying",
+    "2": "Normal/Dark",
+    "score": 1.2673611111111112
+  },
+  {
+    "0": "Fighting/Steel",
+    "1": "Ice/Dragon",
+    "2": "Rock/Steel",
+    "score": 1.2673611111111112
+  },
+  {
+    "0": "Bug/Fairy",
+    "1": "Fire/Flying",
+    "2": "Poison/Rock",
+    "score": 1.2673611111111112
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Rock/Dark",
+    "2": "Steel/Fairy",
+    "score": 1.2743055555555554
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Fire/Rock",
+    "2": "Water/Electric",
+    "score": 1.2743055555555556
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ice/Fairy",
+    "2": "Ice/Steel",
+    "score": 1.2743055555555556
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Rock/Fairy",
+    "2": "Rock/Steel",
+    "score": 1.277777777777778
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Rock/Dragon",
+    "2": "Steel/Fairy",
+    "score": 1.2777777777777781
+  },
+  {
+    "0": "Bug/Dragon",
+    "1": "Dragon/Fairy",
+    "2": "Ice/Fairy",
+    "score": 1.2777777777777781
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ice/Flying",
+    "2": "Rock/Fairy",
+    "score": 1.2847222222222223
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Ice/Bug",
+    "2": "Normal/Rock",
+    "score": 1.2881944444444444
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Ice",
+    "2": "Ice/Bug",
+    "score": 1.2881944444444444
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Steel",
+    "2": "Ice/Psychic",
+    "score": 1.2881944444444446
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Steel",
+    "2": "Ice/Fairy",
+    "score": 1.2916666666666665
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Ice/Flying",
+    "2": "Rock/Dark",
+    "score": 1.2916666666666665
+  },
+  {
+    "0": "Flying/Dark",
+    "1": "Grass/Psychic",
+    "2": "Psychic/Bug",
+    "score": 1.2916666666666665
+  },
+  {
+    "0": "Fire/Dark",
+    "1": "Grass/Psychic",
+    "2": "Psychic/Bug",
+    "score": 1.2916666666666665
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Ice/Bug",
+    "2": "Normal/Rock",
+    "score": 1.2916666666666665
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Bug",
+    "2": "Ice/Rock",
+    "score": 1.2916666666666665
+  },
+  {
+    "0": "Electric/Flying",
+    "1": "Grass/Fighting",
+    "2": "Water/Flying",
+    "score": 1.2916666666666665
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Ice/Flying",
+    "2": "Normal/Rock",
+    "score": 1.2916666666666665
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Bug",
+    "2": "Ice/Bug",
+    "score": 1.2916666666666665
+  },
+  {
+    "0": "Electric/Flying",
+    "1": "Grass/Bug",
+    "2": "Water/Flying",
+    "score": 1.2916666666666665
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Normal/Ice",
+    "2": "Water/Fighting",
+    "score": 1.2951388888888888
+  },
+  {
+    "0": "Fire/Fairy",
+    "1": "Grass/Bug",
+    "2": "Grass/Dark",
+    "score": 1.3020833333333333
+  },
+  {
+    "0": "Flying/Fairy",
+    "1": "Grass/Bug",
+    "2": "Grass/Dark",
+    "score": 1.3020833333333333
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Steel",
+    "2": "Ice/Fairy",
+    "score": 1.3055555555555554
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Steel",
+    "2": "Rock/Fairy",
+    "score": 1.309027777777778
+  },
+  {
+    "0": "Bug/Rock",
+    "1": "Grass/Dark",
+    "2": "Ice/Bug",
+    "score": 1.3194444444444444
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Fire/Steel",
+    "2": "Water/Fighting",
+    "score": 1.3194444444444444
+  },
+  {
+    "0": "Fighting/Ghost",
+    "1": "Ice/Rock",
+    "2": "Normal/Steel",
+    "score": 1.3194444444444444
+  },
+  {
+    "0": "Bug/Rock",
+    "1": "Grass/Psychic",
+    "2": "Ice/Bug",
+    "score": 1.3194444444444444
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Grass/Ground",
+    "2": "Grass/Ice",
+    "score": 1.3194444444444446
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Ice/Rock",
+    "2": "Normal/Steel",
+    "score": 1.3194444444444446
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Grass/Fighting",
+    "2": "Ground/Dark",
+    "score": 1.3194444444444446
+  },
+  {
+    "0": "Electric/Fighting",
+    "1": "Ground/Fairy",
+    "2": "Rock/Dark",
+    "score": 1.3194444444444446
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Grass/Poison",
+    "2": "Water/Ground",
+    "score": 1.3298611111111112
+  },
+  {
+    "0": "Electric/Flying",
+    "1": "Fighting/Flying",
+    "2": "Grass/Bug",
+    "score": 1.3298611111111112
+  },
+  {
+    "0": "Electric/Fighting",
+    "1": "Ice/Rock",
+    "2": "Ice/Steel",
+    "score": 1.3298611111111112
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Fire/Poison",
+    "2": "Ice/Bug",
+    "score": 1.3298611111111112
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ground/Dark",
+    "2": "Rock/Steel",
+    "score": 1.3333333333333333
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Dark",
+    "2": "Ice/Bug",
+    "score": 1.3333333333333333
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Psychic",
+    "2": "Water/Dark",
+    "score": 1.3333333333333333
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Fairy",
+    "2": "Poison/Rock",
+    "score": 1.3333333333333333
+  },
+  {
+    "0": "Electric/Fighting",
+    "1": "Ground/Psychic",
+    "2": "Rock/Steel",
+    "score": 1.3333333333333333
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Ground/Fairy",
+    "2": "Rock/Dark",
+    "score": 1.3368055555555554
+  },
+  {
+    "0": "Electric/Fighting",
+    "1": "Normal/Ice",
+    "2": "Rock/Steel",
+    "score": 1.3368055555555554
+  },
+  {
+    "0": "Flying/Dragon",
+    "1": "Grass/Bug",
+    "2": "Ice/Poison",
+    "score": 1.3368055555555556
+  },
+  {
+    "0": "Bug/Dragon",
+    "1": "Flying/Fairy",
+    "2": "Grass/Dark",
+    "score": 1.3506944444444446
+  },
+  {
+    "0": "Ground/Steel",
+    "1": "Ice/Poison",
+    "2": "Rock/Steel",
+    "score": 1.3576388888888888
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Ice/Bug",
+    "2": "Rock/Fairy",
+    "score": 1.3576388888888888
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Grass/Fairy",
+    "2": "Poison/Ground",
+    "score": 1.3576388888888888
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Fire/Rock",
+    "2": "Ice/Steel",
+    "score": 1.3576388888888888
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Grass/Ground",
+    "2": "Water/Ground",
+    "score": 1.361111111111111
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Ground/Dark",
+    "2": "Psychic/Rock",
+    "score": 1.361111111111111
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Dark",
+    "2": "Ice/Psychic",
+    "score": 1.3611111111111112
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Fire/Poison",
+    "2": "Ice/Steel",
+    "score": 1.3611111111111112
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Flying/Rock",
+    "2": "Rock/Steel",
+    "score": 1.3611111111111112
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Grass/Dragon",
+    "2": "Poison/Fairy",
+    "score": 1.3611111111111112
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Flying",
+    "2": "Rock/Dark",
+    "score": 1.3611111111111114
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Flying",
+    "2": "Normal/Rock",
+    "score": 1.3611111111111114
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Rock/Fairy",
+    "2": "Rock/Steel",
+    "score": 1.371527777777778
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Fire/Poison",
+    "2": "Grass/Steel",
+    "score": 1.378472222222222
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Steel",
+    "2": "Rock/Fairy",
+    "score": 1.3784722222222223
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Ice/Steel",
+    "2": "Water/Fighting",
+    "score": 1.3819444444444444
+  },
+  {
+    "0": "Fighting/Dragon",
+    "1": "Rock/Dark",
+    "2": "Steel/Fairy",
+    "score": 1.3888888888888888
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Fire/Ground",
+    "2": "Ice/Bug",
+    "score": 1.3888888888888888
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Rock/Fairy",
+    "2": "Steel/Fairy",
+    "score": 1.3888888888888888
+  },
+  {
+    "0": "Electric/Fairy",
+    "1": "Fighting/Dark",
+    "2": "Fighting/Flying",
+    "score": 1.3888888888888888
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Rock/Fairy",
+    "2": "Rock/Steel",
+    "score": 1.3888888888888888
+  },
+  {
+    "0": "Bug/Dark",
+    "1": "Grass/Dark",
+    "2": "Ground/Psychic",
+    "score": 1.3888888888888888
+  },
+  {
+    "0": "Electric/Fighting",
+    "1": "Ice/Rock",
+    "2": "Normal/Steel",
+    "score": 1.3888888888888888
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Flying/Dragon",
+    "2": "Ice/Steel",
+    "score": 1.3888888888888888
+  },
+  {
+    "0": "Fire/Dark",
+    "1": "Grass/Bug",
+    "2": "Grass/Psychic",
+    "score": 1.3993055555555556
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Fighting",
+    "2": "Grass/Dark",
+    "score": 1.3993055555555556
+  },
+  {
+    "0": "Flying/Dark",
+    "1": "Grass/Bug",
+    "2": "Grass/Psychic",
+    "score": 1.3993055555555556
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Dragon",
+    "2": "Ice/Steel",
+    "score": 1.4027777777777777
+  },
+  {
+    "0": "Electric/Flying",
+    "1": "Fighting/Flying",
+    "2": "Grass/Fighting",
+    "score": 1.4027777777777781
+  },
+  {
+    "0": "Ground/Dragon",
+    "1": "Ice/Ground",
+    "2": "Poison/Rock",
+    "score": 1.4027777777777781
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Flying/Dragon",
+    "2": "Ice/Flying",
+    "score": 1.4027777777777781
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Ice/Bug",
+    "2": "Normal/Rock",
+    "score": 1.4027777777777781
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Water",
+    "2": "Grass/Ice",
+    "score": 1.4097222222222223
+  },
+  {
+    "0": "Grass/Dark",
+    "1": "Ground/Rock",
+    "2": "Water/Psychic",
+    "score": 1.4166666666666665
+  },
+  {
+    "0": "Flying/Dragon",
+    "1": "Ice/Flying",
+    "2": "Rock/Fairy",
+    "score": 1.4166666666666667
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Flying",
+    "2": "Ice/Rock",
+    "score": 1.4305555555555554
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Ice/Fairy",
+    "2": "Steel/Fairy",
+    "score": 1.4305555555555554
+  },
+  {
+    "0": "Ice/Dragon",
+    "1": "Rock/Fairy",
+    "2": "Steel/Fairy",
+    "score": 1.4305555555555554
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Fighting/Dark",
+    "2": "Ice/Fairy",
+    "score": 1.4305555555555556
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Ice/Ground",
+    "2": "Poison/Rock",
+    "score": 1.4305555555555556
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Ice/Bug",
+    "2": "Normal/Fire",
+    "score": 1.4305555555555556
+  },
+  {
+    "0": "Fighting/Fairy",
+    "1": "Fighting/Rock",
+    "2": "Normal/Rock",
+    "score": 1.4305555555555556
+  },
+  {
+    "0": "Fighting/Psychic",
+    "1": "Fighting/Rock",
+    "2": "Normal/Rock",
+    "score": 1.4305555555555556
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Ground/Rock",
+    "2": "Poison/Rock",
+    "score": 1.4340277777777777
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Dark",
+    "2": "Ice/Rock",
+    "score": 1.4340277777777777
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Ice/Flying",
+    "2": "Rock/Fairy",
+    "score": 1.434027777777778
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Ice",
+    "2": "Fire/Rock",
+    "score": 1.4548611111111112
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Bug",
+    "2": "Fire/Rock",
+    "score": 1.4548611111111112
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Ice/Bug",
+    "2": "Rock/Ghost",
+    "score": 1.4548611111111112
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Ice/Bug",
+    "2": "Poison/Rock",
+    "score": 1.4548611111111112
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Psychic",
+    "2": "Grass/Ice",
+    "score": 1.4548611111111112
+  },
+  {
+    "0": "Fighting/Fairy",
+    "1": "Fighting/Rock",
+    "2": "Normal/Ice",
+    "score": 1.4583333333333333
+  },
+  {
+    "0": "Fighting/Psychic",
+    "1": "Fighting/Rock",
+    "2": "Normal/Ice",
+    "score": 1.4583333333333333
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Dragon",
+    "2": "Grass/Ice",
+    "score": 1.4583333333333333
+  },
+  {
+    "0": "Grass/Bug",
+    "1": "Grass/Flying",
+    "2": "Ice/Poison",
+    "score": 1.4583333333333335
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Fire/Rock",
+    "2": "Ice/Steel",
+    "score": 1.4652777777777777
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ice/Flying",
+    "2": "Ice/Rock",
+    "score": 1.465277777777778
+  },
+  {
+    "0": "Dark/Fairy",
+    "1": "Fighting/Dark",
+    "2": "Poison/Fairy",
+    "score": 1.472222222222222
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Rock",
+    "2": "Water/Fairy",
+    "score": 1.472222222222222
+  },
+  {
+    "0": "Fighting/Flying",
+    "1": "Grass/Fighting",
+    "2": "Normal/Dark",
+    "score": 1.4722222222222223
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Ice/Fairy",
+    "2": "Steel/Fairy",
+    "score": 1.4722222222222223
+  },
+  {
+    "0": "Fighting/Steel",
+    "1": "Normal/Steel",
+    "2": "Rock/Fairy",
+    "score": 1.4756944444444444
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Ice/Bug",
+    "2": "Ice/Rock",
+    "score": 1.4756944444444444
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Bug",
+    "2": "Ice/Bug",
+    "score": 1.4861111111111112
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Electric/Steel",
+    "2": "Grass/Ground",
+    "score": 1.4861111111111112
+  },
+  {
+    "0": "Fighting/Steel",
+    "1": "Ice/Fairy",
+    "2": "Normal/Steel",
+    "score": 1.4861111111111112
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Electric/Poison",
+    "2": "Grass/Ground",
+    "score": 1.4861111111111112
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Bug",
+    "2": "Normal/Rock",
+    "score": 1.4861111111111112
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Ground/Flying",
+    "2": "Ice/Flying",
+    "score": 1.4861111111111112
+  },
+  {
+    "0": "Dark/Fairy",
+    "1": "Fighting/Dragon",
+    "2": "Steel/Fairy",
+    "score": 1.4861111111111112
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Ice/Bug",
+    "2": "Rock/Fairy",
+    "score": 1.4861111111111112
+  },
+  {
+    "0": "Fighting/Dragon",
+    "1": "Ground/Fairy",
+    "2": "Rock/Dark",
+    "score": 1.4861111111111112
+  },
+  {
+    "0": "Ice/Bug",
+    "1": "Normal/Fire",
+    "2": "Water/Rock",
+    "score": 1.4895833333333333
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Fairy",
+    "2": "Poison/Rock",
+    "score": 1.4895833333333333
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Normal/Dark",
+    "2": "Psychic/Ghost",
+    "score": 1.4895833333333333
+  },
+  {
+    "0": "Fire/Fairy",
+    "1": "Ice/Bug",
+    "2": "Poison/Rock",
+    "score": 1.4895833333333333
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Fairy",
+    "2": "Grass/Ice",
+    "score": 1.4965277777777777
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ice/Steel",
+    "2": "Rock/Fairy",
+    "score": 1.5034722222222223
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Water/Grass",
+    "2": "Water/Rock",
+    "score": 1.5034722222222223
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Ice/Flying",
+    "2": "Ice/Rock",
+    "score": 1.5034722222222223
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Electric",
+    "2": "Grass/Ice",
+    "score": 1.5034722222222223
+  },
+  {
+    "0": "Ground/Dark",
+    "1": "Poison/Rock",
+    "2": "Psychic/Steel",
+    "score": 1.5138888888888888
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Normal/Rock",
+    "2": "Water/Fighting",
+    "score": 1.5138888888888888
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Ice/Flying",
+    "2": "Ice/Rock",
+    "score": 1.5138888888888888
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Grass/Dragon",
+    "2": "Ice/Steel",
+    "score": 1.5138888888888888
+  },
+  {
+    "0": "Flying/Fairy",
+    "1": "Grass/Dragon",
+    "2": "Ice/Steel",
+    "score": 1.5138888888888888
+  },
+  {
+    "0": "Electric/Flying",
+    "1": "Flying/Bug",
+    "2": "Grass/Fighting",
+    "score": 1.5138888888888888
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Fighting/Fairy",
+    "2": "Normal/Ice",
+    "score": 1.5173611111111112
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Bug",
+    "2": "Psychic/Dark",
+    "score": 1.5173611111111112
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Grass/Bug",
+    "2": "Psychic/Dark",
+    "score": 1.5173611111111112
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Ice/Bug",
+    "2": "Rock/Steel",
+    "score": 1.5277777777777777
+  },
+  {
+    "0": "Ground/Rock",
+    "1": "Normal/Grass",
+    "2": "Water/Ground",
+    "score": 1.5277777777777777
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Fairy",
+    "2": "Ice/Steel",
+    "score": 1.5277777777777781
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Fighting/Flying",
+    "2": "Rock/Dark",
+    "score": 1.53125
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Fire/Fairy",
+    "2": "Ice/Dark",
+    "score": 1.5381944444444444
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Grass/Fairy",
+    "2": "Poison/Psychic",
+    "score": 1.5381944444444446
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Fighting",
+    "2": "Ice/Rock",
+    "score": 1.5381944444444446
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Grass/Ice",
+    "2": "Normal/Fire",
+    "score": 1.5451388888888888
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Bug",
+    "2": "Water/Flying",
+    "score": 1.5451388888888888
+  },
+  {
+    "0": "Fighting/Steel",
+    "1": "Ice/Fairy",
+    "2": "Ice/Steel",
+    "score": 1.5451388888888888
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Ice/Bug",
+    "2": "Water/Rock",
+    "score": 1.5451388888888888
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Fire/Rock",
+    "2": "Ice/Steel",
+    "score": 1.5451388888888888
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Bug",
+    "2": "Fire/Rock",
+    "score": 1.5451388888888888
+  },
+  {
+    "0": "Electric/Flying",
+    "1": "Fighting/Bug",
+    "2": "Fighting/Flying",
+    "score": 1.5451388888888888
+  },
+  {
+    "0": "Electric/Flying",
+    "1": "Fighting/Bug",
+    "2": "Flying/Bug",
+    "score": 1.5451388888888888
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Ground",
+    "2": "Fire/Poison",
+    "score": 1.5451388888888888
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Ice",
+    "2": "Grass/Ice",
+    "score": 1.5486111111111112
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Fighting/Dark",
+    "2": "Steel/Fairy",
+    "score": 1.5555555555555554
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Grass/Ground",
+    "2": "Rock/Steel",
+    "score": 1.5555555555555554
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Ice/Rock",
+    "2": "Ice/Steel",
+    "score": 1.5555555555555554
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Grass/Ground",
+    "2": "Poison/Rock",
+    "score": 1.5555555555555554
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Rock",
+    "2": "Ice/Flying",
+    "score": 1.5555555555555556
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Ice/Bug",
+    "2": "Ice/Rock",
+    "score": 1.5555555555555558
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Grass/Fighting",
+    "2": "Ice/Rock",
+    "score": 1.5555555555555558
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Grass/Flying",
+    "2": "Ice/Flying",
+    "score": 1.5555555555555558
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Flying/Steel",
+    "2": "Grass/Bug",
+    "score": 1.5590277777777777
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Ice/Bug",
+    "2": "Normal/Rock",
+    "score": 1.5590277777777777
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Fire/Ground",
+    "2": "Grass/Steel",
+    "score": 1.565972222222222
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Ice/Bug",
+    "2": "Poison/Rock",
+    "score": 1.5694444444444446
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Ice/Bug",
+    "2": "Rock/Ghost",
+    "score": 1.5694444444444446
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Ice/Rock",
+    "2": "Steel/Fairy",
+    "score": 1.5694444444444446
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Electric/Fighting",
+    "2": "Ice/Rock",
+    "score": 1.5694444444444446
+  },
+  {
+    "0": "Fighting/Steel",
+    "1": "Ice/Steel",
+    "2": "Rock/Fairy",
+    "score": 1.5729166666666665
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Fire/Rock",
+    "2": "Ice/Steel",
+    "score": 1.579861111111111
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Ground/Steel",
+    "2": "Ice/Fairy",
+    "score": 1.5798611111111112
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Dark",
+    "2": "Grass/Ice",
+    "score": 1.5798611111111112
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Bug",
+    "2": "Water/Flying",
+    "score": 1.5798611111111112
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Flying/Rock",
+    "2": "Rock/Steel",
+    "score": 1.5798611111111112
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Dark",
+    "2": "Psychic/Ghost",
+    "score": 1.5798611111111112
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Ice/Dark",
+    "2": "Psychic/Ghost",
+    "score": 1.5798611111111112
+  },
+  {
+    "0": "Fire/Fighting",
+    "1": "Ice/Bug",
+    "2": "Ice/Rock",
+    "score": 1.5798611111111114
+  },
+  {
+    "0": "Fighting/Poison",
+    "1": "Ice/Rock",
+    "2": "Psychic/Steel",
+    "score": 1.5833333333333333
+  },
+  {
+    "0": "Grass/Flying",
+    "1": "Ice/Fairy",
+    "2": "Ice/Steel",
+    "score": 1.5868055555555554
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Rock/Dark",
+    "2": "Water/Fighting",
+    "score": 1.5972222222222223
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Rock/Steel",
+    "2": "Water/Fighting",
+    "score": 1.5972222222222223
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Grass/Flying",
+    "2": "Ice/Flying",
+    "score": 1.5972222222222223
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Fire/Fairy",
+    "2": "Grass/Dark",
+    "score": 1.6006944444444444
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Flying",
+    "2": "Fire/Rock",
+    "score": 1.6006944444444446
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Flying",
+    "2": "Ice/Bug",
+    "score": 1.6076388888888888
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Dark",
+    "2": "Grass/Psychic",
+    "score": 1.6076388888888888
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Fire/Steel",
+    "2": "Grass/Steel",
+    "score": 1.6111111111111112
+  },
+  {
+    "0": "Fire/Dark",
+    "1": "Ice/Steel",
+    "2": "Water/Fighting",
+    "score": 1.6111111111111112
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Grass/Ground",
+    "2": "Water/Ground",
+    "score": 1.6111111111111112
+  },
+  {
+    "0": "Fighting/Flying",
+    "1": "Grass/Fighting",
+    "2": "Rock/Dark",
+    "score": 1.6111111111111112
+  },
+  {
+    "0": "Fighting/Dragon",
+    "1": "Fighting/Fairy",
+    "2": "Normal/Rock",
+    "score": 1.6111111111111112
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Poison/Steel",
+    "2": "Water/Ground",
+    "score": 1.6111111111111112
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Bug",
+    "2": "Ground/Rock",
+    "score": 1.6111111111111112
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Electric/Rock",
+    "2": "Ice/Ground",
+    "score": 1.6111111111111112
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Grass/Ground",
+    "2": "Water/Ground",
+    "score": 1.6111111111111112
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ice/Fairy",
+    "2": "Water/Steel",
+    "score": 1.6145833333333333
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Steel",
+    "2": "Ice/Rock",
+    "score": 1.6215277777777777
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Ice/Rock",
+    "2": "Poison/Steel",
+    "score": 1.621527777777778
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Fairy",
+    "2": "Poison/Ground",
+    "score": 1.6284722222222223
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Ground/Rock",
+    "2": "Poison/Rock",
+    "score": 1.6284722222222223
+  },
+  {
+    "0": "Grass/Bug",
+    "1": "Grass/Psychic",
+    "2": "Poison/Bug",
+    "score": 1.6319444444444444
+  },
+  {
+    "0": "Grass/Psychic",
+    "1": "Ground/Rock",
+    "2": "Water/Fighting",
+    "score": 1.6388888888888888
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Ground/Rock",
+    "2": "Water/Fighting",
+    "score": 1.6388888888888888
+  },
+  {
+    "0": "Fighting/Fairy",
+    "1": "Fighting/Rock",
+    "2": "Ice/Rock",
+    "score": 1.6388888888888888
+  },
+  {
+    "0": "Fighting/Psychic",
+    "1": "Fighting/Rock",
+    "2": "Ice/Rock",
+    "score": 1.6388888888888888
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Fighting/Flying",
+    "2": "Grass/Dark",
+    "score": 1.642361111111111
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Fire/Rock",
+    "2": "Ground/Rock",
+    "score": 1.642361111111111
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 1.6423611111111112
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Psychic/Ghost",
+    "2": "Rock/Dark",
+    "score": 1.6493055555555554
+  },
+  {
+    "0": "Fire/Fairy",
+    "1": "Grass/Dark",
+    "2": "Ice/Bug",
+    "score": 1.6493055555555556
+  },
+  {
+    "0": "Fire/Fighting",
+    "1": "Grass/Dark",
+    "2": "Ice/Bug",
+    "score": 1.6493055555555556
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Ground/Rock",
+    "2": "Water/Fighting",
+    "score": 1.6527777777777775
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Rock",
+    "2": "Water/Ghost",
+    "score": 1.6527777777777777
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Rock",
+    "2": "Water/Psychic",
+    "score": 1.6527777777777777
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Rock",
+    "2": "Water/Dark",
+    "score": 1.6527777777777777
+  },
+  {
+    "0": "Flying/Dragon",
+    "1": "Ice/Steel",
+    "2": "Rock/Fairy",
+    "score": 1.6527777777777781
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ice/Rock",
+    "2": "Ice/Steel",
+    "score": 1.6597222222222223
+  },
+  {
+    "0": "Fighting/Psychic",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 1.6666666666666665
+  },
+  {
+    "0": "Fire/Fighting",
+    "1": "Ice/Rock",
+    "2": "Normal/Steel",
+    "score": 1.6666666666666665
+  },
+  {
+    "0": "Flying/Dragon",
+    "1": "Ice/Dragon",
+    "2": "Rock/Fairy",
+    "score": 1.6805555555555556
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Grass/Ice",
+    "2": "Water/Ground",
+    "score": 1.6805555555555556
+  },
+  {
+    "0": "Electric/Flying",
+    "1": "Fighting/Bug",
+    "2": "Water/Flying",
+    "score": 1.6805555555555556
+  },
+  {
+    "0": "Fighting/Dragon",
+    "1": "Rock/Fairy",
+    "2": "Steel/Fairy",
+    "score": 1.6805555555555556
+  },
+  {
+    "0": "Electric/Fighting",
+    "1": "Ground/Ghost",
+    "2": "Rock/Steel",
+    "score": 1.6805555555555558
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Fire/Electric",
+    "2": "Ice/Steel",
+    "score": 1.684027777777778
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Ground/Rock",
+    "2": "Poison/Rock",
+    "score": 1.690972222222222
+  },
+  {
+    "0": "Dark/Fairy",
+    "1": "Fighting/Dark",
+    "2": "Psychic/Ghost",
+    "score": 1.7013888888888888
+  },
+  {
+    "0": "Grass/Flying",
+    "1": "Ice/Rock",
+    "2": "Ice/Steel",
+    "score": 1.7048611111111112
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Ice/Bug",
+    "2": "Rock/Fairy",
+    "score": 1.7118055555555554
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Fire/Rock",
+    "2": "Water/Fighting",
+    "score": 1.7118055555555556
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Fire/Steel",
+    "2": "Ice/Rock",
+    "score": 1.7152777777777777
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Ice/Fairy",
+    "2": "Poison/Steel",
+    "score": 1.7152777777777777
+  },
+  {
+    "0": "Grass/Fairy",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 1.722222222222222
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Rock/Steel",
+    "2": "Water/Ground",
+    "score": 1.722222222222222
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 1.722222222222222
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Poison/Rock",
+    "2": "Water/Ground",
+    "score": 1.722222222222222
+  },
+  {
+    "0": "Grass/Psychic",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 1.722222222222222
+  },
+  {
+    "0": "Grass/Dark",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 1.722222222222222
+  },
+  {
+    "0": "Grass/Ghost",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 1.722222222222222
+  },
+  {
+    "0": "Fighting/Ghost",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 1.722222222222222
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Fire/Steel",
+    "2": "Ice/Bug",
+    "score": 1.722222222222222
+  },
+  {
+    "0": "Fire/Fighting",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 1.722222222222222
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Ghost",
+    "2": "Grass/Ice",
+    "score": 1.7256944444444446
+  },
+  {
+    "0": "Fighting/Steel",
+    "1": "Rock/Fairy",
+    "2": "Rock/Steel",
+    "score": 1.7291666666666665
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Dragon",
+    "2": "Ice/Bug",
+    "score": 1.7326388888888888
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Ice",
+    "2": "Ice/Bug",
+    "score": 1.7326388888888888
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Fighting/Flying",
+    "2": "Normal/Dark",
+    "score": 1.7326388888888888
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Fire/Steel",
+    "2": "Ice/Steel",
+    "score": 1.736111111111111
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Grass/Bug",
+    "2": "Ice/Poison",
+    "score": 1.7361111111111112
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Rock",
+    "2": "Normal/Ice",
+    "score": 1.7361111111111112
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ice/Steel",
+    "2": "Water/Fighting",
+    "score": 1.7361111111111112
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Normal/Ice",
+    "2": "Water/Fighting",
+    "score": 1.7361111111111112
+  },
+  {
+    "0": "Grass/Bug",
+    "1": "Grass/Psychic",
+    "2": "Water/Ground",
+    "score": 1.7361111111111112
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Grass/Bug",
+    "2": "Ice/Flying",
+    "score": 1.7361111111111112
+  },
+  {
+    "0": "Grass/Bug",
+    "1": "Grass/Dark",
+    "2": "Water/Ground",
+    "score": 1.7361111111111112
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Ice/Rock",
+    "2": "Normal/Steel",
+    "score": 1.7604166666666667
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Ground/Dragon",
+    "2": "Ice/Ground",
+    "score": 1.7638888888888888
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Grass/Fighting",
+    "2": "Water/Ground",
+    "score": 1.763888888888889
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Grass/Fighting",
+    "2": "Ground/Rock",
+    "score": 1.763888888888889
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Ice/Bug",
+    "2": "Poison/Rock",
+    "score": 1.767361111111111
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Ice/Bug",
+    "2": "Rock/Ghost",
+    "score": 1.767361111111111
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Ice/Bug",
+    "2": "Water/Rock",
+    "score": 1.767361111111111
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Bug",
+    "2": "Ice/Poison",
+    "score": 1.7673611111111112
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Rock",
+    "2": "Water/Dragon",
+    "score": 1.7673611111111114
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Steel",
+    "2": "Rock/Fairy",
+    "score": 1.7743055555555556
+  },
+  {
+    "0": "Fire/Dark",
+    "1": "Grass/Psychic",
+    "2": "Ice/Bug",
+    "score": 1.7777777777777777
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Ice",
+    "2": "Ground/Rock",
+    "score": 1.7777777777777777
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Fighting/Fairy",
+    "2": "Ice/Rock",
+    "score": 1.7881944444444442
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Water/Grass",
+    "2": "Water/Ground",
+    "score": 1.7881944444444442
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Flying",
+    "2": "Ice/Bug",
+    "score": 1.7881944444444442
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Fighting/Fairy",
+    "2": "Normal/Rock",
+    "score": 1.7881944444444442
+  },
+  {
+    "0": "Grass/Dragon",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 1.7881944444444442
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Flying/Bug",
+    "2": "Grass/Bug",
+    "score": 1.7881944444444444
+  },
+  {
+    "0": "Electric/Flying",
+    "1": "Flying/Bug",
+    "2": "Grass/Bug",
+    "score": 1.7881944444444444
+  },
+  {
+    "0": "Dark/Fairy",
+    "1": "Fighting/Dragon",
+    "2": "Poison/Fairy",
+    "score": 1.7881944444444444
+  },
+  {
+    "0": "Normal/Ice",
+    "1": "Rock/Steel",
+    "2": "Water/Fighting",
+    "score": 1.7951388888888888
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Flying",
+    "2": "Ground/Rock",
+    "score": 1.8020833333333335
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Electric/Steel",
+    "2": "Water/Ground",
+    "score": 1.8055555555555554
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Electric/Poison",
+    "2": "Ice/Ground",
+    "score": 1.8055555555555554
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Rock",
+    "2": "Water/Steel",
+    "score": 1.8055555555555554
+  },
+  {
+    "0": "Grass/Flying",
+    "1": "Ice/Flying",
+    "2": "Ice/Rock",
+    "score": 1.8055555555555554
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Ground",
+    "2": "Fire/Steel",
+    "score": 1.8055555555555554
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Electric/Poison",
+    "2": "Water/Ground",
+    "score": 1.8055555555555554
+  },
+  {
+    "0": "Grass/Ice",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 1.8055555555555558
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 1.8055555555555558
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Ground",
+    "2": "Grass/Ice",
+    "score": 1.8090277777777777
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Grass/Bug",
+    "2": "Poison/Bug",
+    "score": 1.8090277777777777
+  },
+  {
+    "0": "Flying/Rock",
+    "1": "Grass/Bug",
+    "2": "Poison/Bug",
+    "score": 1.8090277777777777
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fire/Fighting",
+    "2": "Ice/Rock",
+    "score": 1.8194444444444444
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Rock/Steel",
+    "2": "Water/Ground",
+    "score": 1.8194444444444444
+  },
+  {
+    "0": "Electric/Fighting",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 1.8194444444444444
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Fire/Poison",
+    "2": "Ice/Steel",
+    "score": 1.8194444444444446
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Flying/Bug",
+    "2": "Flying/Rock",
+    "score": 1.8229166666666665
+  },
+  {
+    "0": "Flying/Dragon",
+    "1": "Ice/Rock",
+    "2": "Ice/Steel",
+    "score": 1.8298611111111112
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Fighting/Dark",
+    "2": "Poison/Fairy",
+    "score": 1.8368055555555554
+  },
+  {
+    "0": "Flying/Dragon",
+    "1": "Ice/Flying",
+    "2": "Ice/Rock",
+    "score": 1.8472222222222223
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Ice/Steel",
+    "2": "Water/Fighting",
+    "score": 1.8472222222222223
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Electric",
+    "2": "Fire/Ground",
+    "score": 1.8576388888888888
+  },
+  {
+    "0": "Bug/Dark",
+    "1": "Bug/Fairy",
+    "2": "Grass/Psychic",
+    "score": 1.8611111111111112
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ground/Flying",
+    "2": "Ice/Flying",
+    "score": 1.8611111111111112
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Flying/Rock",
+    "2": "Ice/Bug",
+    "score": 1.8645833333333335
+  },
+  {
+    "0": "Grass/Bug",
+    "1": "Grass/Flying",
+    "2": "Water/Ground",
+    "score": 1.8680555555555554
+  },
+  {
+    "0": "Ground/Rock",
+    "1": "Poison/Rock",
+    "2": "Water/Steel",
+    "score": 1.871527777777778
+  },
+  {
+    "0": "Dark/Fairy",
+    "1": "Dragon/Dark",
+    "2": "Poison/Fairy",
+    "score": 1.8784722222222219
+  },
+  {
+    "0": "Dark/Fairy",
+    "1": "Dragon/Dark",
+    "2": "Steel/Fairy",
+    "score": 1.8784722222222219
+  },
+  {
+    "0": "Ground/Steel",
+    "1": "Ice/Fairy",
+    "2": "Rock/Steel",
+    "score": 1.878472222222222
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Fire/Flying",
+    "2": "Flying/Rock",
+    "score": 1.878472222222222
+  },
+  {
+    "0": "Fighting/Steel",
+    "1": "Ice/Fairy",
+    "2": "Rock/Steel",
+    "score": 1.878472222222222
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ground/Rock",
+    "2": "Poison/Rock",
+    "score": 1.878472222222222
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Fire/Rock",
+    "2": "Ground/Rock",
+    "score": 1.878472222222222
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Ice/Bug",
+    "2": "Water/Rock",
+    "score": 1.8784722222222223
+  },
+  {
+    "0": "Fire/Fighting",
+    "1": "Normal/Ice",
+    "2": "Rock/Steel",
+    "score": 1.8854166666666665
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Rock",
+    "2": "Grass/Ice",
+    "score": 1.8854166666666665
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Flying",
+    "2": "Ice/Steel",
+    "score": 1.8888888888888888
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Flying/Dragon",
+    "2": "Ice/Fairy",
+    "score": 1.888888888888889
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Ground/Dragon",
+    "2": "Ice/Fairy",
+    "score": 1.888888888888889
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ground/Rock",
+    "2": "Water/Dark",
+    "score": 1.888888888888889
+  },
+  {
+    "0": "Bug/Rock",
+    "1": "Ice/Bug",
+    "2": "Rock/Steel",
+    "score": 1.888888888888889
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Grass/Fairy",
+    "2": "Poison/Fairy",
+    "score": 1.8923611111111112
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Rock/Fairy",
+    "2": "Rock/Steel",
+    "score": 1.8923611111111112
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Ground",
+    "2": "Ice/Rock",
+    "score": 1.8923611111111112
+  },
+  {
+    "0": "Grass/Bug",
+    "1": "Grass/Dark",
+    "2": "Poison/Bug",
+    "score": 1.9097222222222223
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Steel",
+    "2": "Ice/Rock",
+    "score": 1.9131944444444446
+  },
+  {
+    "0": "Fire/Fighting",
+    "1": "Grass/Steel",
+    "2": "Ice/Rock",
+    "score": 1.9166666666666665
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Flying/Rock",
+    "2": "Ice/Bug",
+    "score": 1.9305555555555558
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Grass/Ice",
+    "2": "Ground/Rock",
+    "score": 1.9305555555555558
+  },
+  {
+    "0": "Flying/Dragon",
+    "1": "Grass/Fighting",
+    "2": "Ice/Flying",
+    "score": 1.9340277777777777
+  },
+  {
+    "0": "Ground/Steel",
+    "1": "Ice/Fairy",
+    "2": "Poison/Steel",
+    "score": 1.940972222222222
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Ice",
+    "2": "Rock/Dark",
+    "score": 1.9444444444444446
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Ice",
+    "2": "Normal/Rock",
+    "score": 1.9444444444444446
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Fairy",
+    "2": "Ice/Poison",
+    "score": 1.9479166666666667
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ice/Steel",
+    "2": "Water/Fighting",
+    "score": 1.9583333333333335
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Grass/Flying",
+    "2": "Water/Ground",
+    "score": 1.9618055555555554
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Flying/Bug",
+    "2": "Water/Rock",
+    "score": 1.9618055555555554
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Ground",
+    "2": "Ice/Bug",
+    "score": 1.9756944444444444
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Flying/Fairy",
+    "2": "Grass/Dark",
+    "score": 1.986111111111111
+  },
+  {
+    "0": "Bug/Dark",
+    "1": "Bug/Fairy",
+    "2": "Grass/Dark",
+    "score": 1.9861111111111112
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Fire/Poison",
+    "2": "Water/Ground",
+    "score": 1.9861111111111114
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Fire/Steel",
+    "2": "Water/Ground",
+    "score": 1.9861111111111114
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Ground/Dragon",
+    "2": "Ice/Ground",
+    "score": 2.0
+  },
+  {
+    "0": "Grass/Steel",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 2.0
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Ice",
+    "2": "Fire/Rock",
+    "score": 2.0034722222222223
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Fire/Rock",
+    "2": "Ground/Rock",
+    "score": 2.0034722222222223
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Rock/Steel",
+    "2": "Water/Fighting",
+    "score": 2.013888888888889
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Bug",
+    "2": "Grass/Dark",
+    "score": 2.013888888888889
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Fighting/Ground",
+    "2": "Ice/Rock",
+    "score": 2.017361111111111
+  },
+  {
+    "0": "Fighting/Fairy",
+    "1": "Fighting/Rock",
+    "2": "Normal/Dark",
+    "score": 2.017361111111111
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Ice/Bug",
+    "2": "Water/Rock",
+    "score": 2.0243055555555554
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Grass/Ground",
+    "2": "Ground/Rock",
+    "score": 2.0243055555555554
+  },
+  {
+    "0": "Dragon/Dark",
+    "1": "Grass/Fairy",
+    "2": "Poison/Fairy",
+    "score": 2.0277777777777777
+  },
+  {
+    "0": "Bug/Dark",
+    "1": "Psychic/Dark",
+    "2": "Psychic/Ghost",
+    "score": 2.0277777777777777
+  },
+  {
+    "0": "Bug/Dark",
+    "1": "Grass/Dark",
+    "2": "Psychic/Ghost",
+    "score": 2.0277777777777777
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Ground",
+    "2": "Grass/Ice",
+    "score": 2.0347222222222223
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Grass/Dragon",
+    "2": "Ice/Fairy",
+    "score": 2.041666666666667
+  },
+  {
+    "0": "Flying/Dragon",
+    "1": "Ice/Fairy",
+    "2": "Ice/Steel",
+    "score": 2.045138888888889
+  },
+  {
+    "0": "Grass/Dragon",
+    "1": "Ice/Fairy",
+    "2": "Ice/Steel",
+    "score": 2.045138888888889
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ice/Rock",
+    "2": "Water/Fighting",
+    "score": 2.0451388888888893
+  },
+  {
+    "0": "Ice/Rock",
+    "1": "Normal/Steel",
+    "2": "Water/Fighting",
+    "score": 2.0555555555555554
+  },
+  {
+    "0": "Fighting/Dragon",
+    "1": "Ice/Fairy",
+    "2": "Steel/Fairy",
+    "score": 2.055555555555556
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Ice/Bug",
+    "2": "Rock/Steel",
+    "score": 2.055555555555556
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Grass/Fairy",
+    "2": "Ice/Steel",
+    "score": 2.0694444444444446
+  },
+  {
+    "0": "Bug/Dark",
+    "1": "Bug/Fairy",
+    "2": "Psychic/Dark",
+    "score": 2.0833333333333335
+  },
+  {
+    "0": "Fire/Fighting",
+    "1": "Ice/Bug",
+    "2": "Rock/Steel",
+    "score": 2.086805555555556
+  },
+  {
+    "0": "Fighting/Dragon",
+    "1": "Fighting/Fairy",
+    "2": "Poison/Fairy",
+    "score": 2.1111111111111107
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Rock/Steel",
+    "2": "Water/Ground",
+    "score": 2.1111111111111116
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Poison/Rock",
+    "2": "Water/Ground",
+    "score": 2.1111111111111116
+  },
+  {
+    "0": "Ice/Rock",
+    "1": "Ice/Steel",
+    "2": "Water/Fighting",
+    "score": 2.1145833333333335
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Flying/Rock",
+    "2": "Rock/Steel",
+    "score": 2.1180555555555554
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Poison",
+    "2": "Grass/Ice",
+    "score": 2.1180555555555554
+  },
+  {
+    "0": "Ground/Steel",
+    "1": "Ice/Rock",
+    "2": "Poison/Steel",
+    "score": 2.1284722222222223
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Ice/Bug",
+    "2": "Rock/Steel",
+    "score": 2.1354166666666665
+  },
+  {
+    "0": "Dragon/Dark",
+    "1": "Rock/Fairy",
+    "2": "Steel/Fairy",
+    "score": 2.138888888888889
+  },
+  {
+    "0": "Flying/Dragon",
+    "1": "Grass/Bug",
+    "2": "Ice/Flying",
+    "score": 2.142361111111111
+  },
+  {
+    "0": "Fighting/Dragon",
+    "1": "Grass/Fairy",
+    "2": "Poison/Fairy",
+    "score": 2.1493055555555554
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Bug",
+    "2": "Grass/Ice",
+    "score": 2.1527777777777777
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Bug",
+    "2": "Grass/Psychic",
+    "score": 2.1527777777777777
+  },
+  {
+    "0": "Ice/Bug",
+    "1": "Rock/Fairy",
+    "2": "Rock/Steel",
+    "score": 2.1527777777777777
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Flying",
+    "2": "Grass/Ice",
+    "score": 2.1597222222222223
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Fighting/Fairy",
+    "2": "Poison/Fairy",
+    "score": 2.173611111111111
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Poison/Steel",
+    "2": "Water/Ground",
+    "score": 2.1805555555555554
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Fighting/Dragon",
+    "2": "Steel/Fairy",
+    "score": 2.1805555555555554
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Fire/Electric",
+    "2": "Water/Ground",
+    "score": 2.180555555555556
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Ground/Steel",
+    "2": "Ice/Rock",
+    "score": 2.197916666666667
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ice/Bug",
+    "2": "Ice/Rock",
+    "score": 2.2048611111111107
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ice/Bug",
+    "2": "Rock/Fairy",
+    "score": 2.2048611111111107
+  },
+  {
+    "0": "Dark/Fairy",
+    "1": "Dragon/Dark",
+    "2": "Psychic/Ghost",
+    "score": 2.2048611111111107
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Fire/Ground",
+    "2": "Ice/Steel",
+    "score": 2.204861111111111
+  },
+  {
+    "0": "Fighting/Dragon",
+    "1": "Fighting/Fairy",
+    "2": "Normal/Dark",
+    "score": 2.2118055555555554
+  },
+  {
+    "0": "Fighting/Fairy",
+    "1": "Fighting/Rock",
+    "2": "Rock/Dark",
+    "score": 2.211805555555556
+  },
+  {
+    "0": "Fighting/Fairy",
+    "1": "Fighting/Rock",
+    "2": "Ice/Dark",
+    "score": 2.211805555555556
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Fire/Rock",
+    "2": "Grass/Ice",
+    "score": 2.211805555555556
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Grass/Flying",
+    "2": "Ice/Flying",
+    "score": 2.21875
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Poison/Rock",
+    "2": "Water/Ground",
+    "score": 2.2222222222222223
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Fire/Steel",
+    "2": "Ice/Steel",
+    "score": 2.2222222222222223
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ice/Flying",
+    "2": "Water/Rock",
+    "score": 2.225694444444444
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Bug",
+    "2": "Ice/Flying",
+    "score": 2.2395833333333335
+  },
+  {
+    "0": "Flying/Rock",
+    "1": "Ice/Bug",
+    "2": "Rock/Steel",
+    "score": 2.2465277777777777
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Fighting",
+    "2": "Grass/Ice",
+    "score": 2.2534722222222223
+  },
+  {
+    "0": "Fighting/Steel",
+    "1": "Normal/Ice",
+    "2": "Rock/Steel",
+    "score": 2.2534722222222223
+  },
+  {
+    "0": "Grass/Bug",
+    "1": "Grass/Flying",
+    "2": "Ice/Flying",
+    "score": 2.263888888888889
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Grass/Bug",
+    "2": "Grass/Flying",
+    "score": 2.263888888888889
+  },
+  {
+    "0": "Ice/Flying",
+    "1": "Rock/Fairy",
+    "2": "Rock/Steel",
+    "score": 2.267361111111111
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Fire/Rock",
+    "2": "Grass/Ice",
+    "score": 2.2743055555555554
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Ice/Rock",
+    "2": "Water/Fighting",
+    "score": 2.277777777777778
+  },
+  {
+    "0": "Grass/Ground",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 2.291666666666667
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Rock/Steel",
+    "2": "Water/Ground",
+    "score": 2.291666666666667
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Grass/Ground",
+    "2": "Ice/Bug",
+    "score": 2.298611111111111
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Psychic",
+    "2": "Ice/Bug",
+    "score": 2.309027777777778
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Dark",
+    "2": "Ice/Bug",
+    "score": 2.309027777777778
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 2.3229166666666665
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Electric/Rock",
+    "2": "Water/Ground",
+    "score": 2.3333333333333335
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Rock",
+    "2": "Water/Grass",
+    "score": 2.3472222222222223
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Ice/Bug",
+    "2": "Rock/Steel",
+    "score": 2.350694444444444
+  },
+  {
+    "0": "Ice/Bug",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 2.3611111111111107
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Fire/Ground",
+    "2": "Water/Ground",
+    "score": 2.361111111111111
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Fire/Poison",
+    "2": "Water/Ground",
+    "score": 2.3611111111111116
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Fighting/Fairy",
+    "2": "Ice/Dark",
+    "score": 2.3819444444444446
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Grass/Bug",
+    "2": "Grass/Psychic",
+    "score": 2.3819444444444446
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Grass/Bug",
+    "2": "Grass/Dark",
+    "score": 2.3819444444444446
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Fighting/Fairy",
+    "2": "Normal/Dark",
+    "score": 2.3819444444444446
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Bug",
+    "2": "Grass/Dark",
+    "score": 2.3819444444444446
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Grass/Bug",
+    "2": "Grass/Psychic",
+    "score": 2.3819444444444446
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Fire/Rock",
+    "2": "Grass/Bug",
+    "score": 2.392361111111111
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Ground/Steel",
+    "2": "Rock/Fairy",
+    "score": 2.3993055555555554
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Steel",
+    "2": "Grass/Ice",
+    "score": 2.399305555555556
+  },
+  {
+    "0": "Dragon/Dark",
+    "1": "Dragon/Fairy",
+    "2": "Poison/Fairy",
+    "score": 2.416666666666667
+  },
+  {
+    "0": "Dragon/Dark",
+    "1": "Dragon/Fairy",
+    "2": "Steel/Fairy",
+    "score": 2.416666666666667
+  },
+  {
+    "0": "Dragon/Dark",
+    "1": "Fighting/Fairy",
+    "2": "Poison/Fairy",
+    "score": 2.4270833333333335
+  },
+  {
+    "0": "Grass/Fighting",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 2.430555555555556
+  },
+  {
+    "0": "Fire/Ground",
+    "1": "Fire/Steel",
+    "2": "Water/Ground",
+    "score": 2.430555555555556
+  },
+  {
+    "0": "Bug/Steel",
+    "1": "Fire/Steel",
+    "2": "Ice/Fairy",
+    "score": 2.430555555555556
+  },
+  {
+    "0": "Electric/Poison",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 2.4409722222222223
+  },
+  {
+    "0": "Fighting/Bug",
+    "1": "Flying/Bug",
+    "2": "Grass/Dark",
+    "score": 2.4444444444444446
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Grass/Steel",
+    "2": "Ice/Fairy",
+    "score": 2.4444444444444446
+  },
+  {
+    "0": "Dragon/Dark",
+    "1": "Ice/Fairy",
+    "2": "Steel/Fairy",
+    "score": 2.4444444444444446
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Fire/Rock",
+    "2": "Water/Rock",
+    "score": 2.4444444444444446
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Water/Grass",
+    "2": "Water/Ground",
+    "score": 2.4479166666666665
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Fire/Rock",
+    "2": "Grass/Bug",
+    "score": 2.4618055555555554
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Fire/Rock",
+    "2": "Grass/Ice",
+    "score": 2.4618055555555554
+  },
+  {
+    "0": "Ground/Steel",
+    "1": "Rock/Fairy",
+    "2": "Rock/Steel",
+    "score": 2.4652777777777777
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Electric/Rock",
+    "2": "Grass/Ground",
+    "score": 2.472222222222222
+  },
+  {
+    "0": "Ground/Steel",
+    "1": "Poison/Steel",
+    "2": "Rock/Fairy",
+    "score": 2.506944444444444
+  },
+  {
+    "0": "Ground/Steel",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 2.5069444444444446
+  },
+  {
+    "0": "Ground/Rock",
+    "1": "Poison/Rock",
+    "2": "Water/Ground",
+    "score": 2.510416666666667
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Grass/Bug",
+    "2": "Ice/Flying",
+    "score": 2.5138888888888893
+  },
+  {
+    "0": "Fighting/Dragon",
+    "1": "Fighting/Fairy",
+    "2": "Rock/Dark",
+    "score": 2.5451388888888893
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Fighting/Dragon",
+    "2": "Poison/Fairy",
+    "score": 2.5451388888888893
+  },
+  {
+    "0": "Flying/Bug",
+    "1": "Flying/Rock",
+    "2": "Grass/Bug",
+    "score": 2.5868055555555554
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Flying/Rock",
+    "2": "Grass/Bug",
+    "score": 2.5868055555555554
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Flying/Bug",
+    "2": "Grass/Bug",
+    "score": 2.5868055555555554
+  },
+  {
+    "0": "Dragon/Fairy",
+    "1": "Fighting/Dragon",
+    "2": "Ice/Fairy",
+    "score": 2.5972222222222223
+  },
+  {
+    "0": "Fire/Fighting",
+    "1": "Ice/Rock",
+    "2": "Ice/Steel",
+    "score": 2.6006944444444446
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Fire/Ground",
+    "2": "Water/Ground",
+    "score": 2.6111111111111107
+  },
+  {
+    "0": "Electric/Steel",
+    "1": "Fire/Ground",
+    "2": "Water/Ground",
+    "score": 2.611111111111111
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Fire/Rock",
+    "2": "Water/Rock",
+    "score": 2.6180555555555554
+  },
+  {
+    "0": "Fire/Steel",
+    "1": "Ice/Fairy",
+    "2": "Ice/Steel",
+    "score": 2.6215277777777777
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Rock",
+    "2": "Water/Fighting",
+    "score": 2.6527777777777777
+  },
+  {
+    "0": "Fighting/Rock",
+    "1": "Fire/Rock",
+    "2": "Ice/Bug",
+    "score": 2.680555555555556
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ice/Bug",
+    "2": "Water/Rock",
+    "score": 2.6840277777777777
+  },
+  {
+    "0": "Ice/Flying",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 2.6840277777777777
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Fire/Rock",
+    "2": "Water/Rock",
+    "score": 2.6944444444444446
+  },
+  {
+    "0": "Fire/Poison",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 2.7326388888888884
+  },
+  {
+    "0": "Fighting/Ground",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 2.743055555555556
+  },
+  {
+    "0": "Fighting/Dark",
+    "1": "Fighting/Fairy",
+    "2": "Rock/Dark",
+    "score": 2.75
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Fire/Ground",
+    "2": "Water/Ground",
+    "score": 2.7777777777777777
+  },
+  {
+    "0": "Ice/Rock",
+    "1": "Rock/Steel",
+    "2": "Water/Fighting",
+    "score": 2.7777777777777777
+  },
+  {
+    "0": "Dragon/Dark",
+    "1": "Dragon/Fairy",
+    "2": "Ice/Fairy",
+    "score": 2.8333333333333335
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Grass/Ground",
+    "2": "Water/Ground",
+    "score": 2.861111111111111
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 2.861111111111111
+  },
+  {
+    "0": "Electric/Rock",
+    "1": "Grass/Ground",
+    "2": "Ground/Rock",
+    "score": 2.9722222222222223
+  },
+  {
+    "0": "Fire/Electric",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 3.111111111111111
+  },
+  {
+    "0": "Electric/Ground",
+    "1": "Fire/Rock",
+    "2": "Water/Ground",
+    "score": 3.263888888888889
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Flying/Rock",
+    "2": "Grass/Bug",
+    "score": 3.305555555555556
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Fire/Rock",
+    "2": "Grass/Bug",
+    "score": 3.3715277777777777
+  },
+  {
+    "0": "Fighting/Steel",
+    "1": "Ice/Rock",
+    "2": "Normal/Steel",
+    "score": 3.503472222222222
+  },
+  {
+    "0": "Fighting/Steel",
+    "1": "Ice/Rock",
+    "2": "Ice/Steel",
+    "score": 3.5277777777777786
+  },
+  {
+    "0": "Ground/Rock",
+    "1": "Water/Grass",
+    "2": "Water/Ground",
+    "score": 3.579861111111111
+  },
+  {
+    "0": "Dark/Steel",
+    "1": "Fighting/Steel",
+    "2": "Ice/Rock",
+    "score": 3.6215277777777772
+  },
+  {
+    "0": "Fire/Bug",
+    "1": "Fire/Rock",
+    "2": "Ice/Bug",
+    "score": 3.7118055555555554
+  },
+  {
+    "0": "Fire/Ice",
+    "1": "Fire/Rock",
+    "2": "Ice/Bug",
+    "score": 3.711805555555556
+  },
+  {
+    "0": "Fire/Flying",
+    "1": "Fire/Rock",
+    "2": "Ice/Bug",
+    "score": 3.82986111111111
+  },
+  {
+    "0": "Fire/Rock",
+    "1": "Ground/Rock",
+    "2": "Water/Ground",
+    "score": 3.9305555555555554
+  },
+  {
+    "0": "Fighting/Steel",
+    "1": "Ice/Rock",
+    "2": "Rock/Steel",
+    "score": 4.118055555555555
+  }
+]
